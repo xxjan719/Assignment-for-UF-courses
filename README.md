@@ -7,4 +7,4 @@ This repository is used for giving my solution for the courses [MAS5311](https:/
 
 ## Solutions for [MAD 6406](https://people.clas.ufl.edu/chunmei-wang/courses/)
 ### Chapter 1
-1. [Leture1]() 
+1. [Lecture1]() 
