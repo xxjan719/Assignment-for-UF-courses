@@ -8,4 +8,5 @@ This repository is used for giving my solution for the courses [MAS5311](https:/
 ## Solutions for [MAD 6406](https://people.clas.ufl.edu/chunmei-wang/courses/)
 ### Chapter 1
 1. [Lecture1](MAD6406/Chapter1Lecture1.pdf) 
-2. [Lecture2](MAD6406/Chapter1Lecture2.pdf) 
+2. [Lecture2](MAD6406/Chapter1Lecture2.pdf)
+3. [Formal homework week1](MAD6406/hw_week1.pdf)
