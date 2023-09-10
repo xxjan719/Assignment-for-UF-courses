@@ -12,6 +12,8 @@ This repository is used for giving my solution for the courses [MAS5311](https:/
 3. [Formal homework week1](MAD6406/hw_week1.pdf)
 4. [Lecture3](MAD6406/Lecture3.pdf)
 5. [Lecture4](MAD6406/Chapter1Lecture4.pdf)
+6. [Lecture5](MAD6406/Chapter1Lecture5.pdf)
+### Chapter 2
 ### Code problem for MAD 5406
 For Lecture4 exercise 4.3: write a MATLAB program which, given a real $2 \times 2$ matrix, plots the right singular vectors $v_{1}$ and $v_{2}$ in the unit circle and also the left singular vectors $u_{1}$ and $u_{2}$ in the appropriate ellipse.
 
