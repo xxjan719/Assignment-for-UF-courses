@@ -52,3 +52,9 @@ axis equal;
 end
 ```
 We can use $A = \[2,1;1,3\]$ to get the results
+```
+A = [2, 1; 1, 3];
+plotSingularVectors(A);
+```
+Then we can deduce this:
+![alt text](https://github.com/xxjan719/Assignment-for-UF-courses/MAD6406/imagelecture4_3.jpg?raw=true)
