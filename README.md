@@ -57,4 +57,4 @@ A = [2, 1; 1, 3];
 plotSingularVectors(A);
 ```
 Then we can deduce this:
-![Screenshot]([https://github.com/xxjan719/Assignment-for-UF-courses/blob/main/MAD6406/imagelecture4_3.jpg])
+![Screenshot](https://github.com/xxjan719/Assignment-for-UF-courses/blob/main/MAD6406/imagelecture4_3.jpg)
