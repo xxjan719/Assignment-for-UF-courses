@@ -11,3 +11,4 @@ This repository is used for giving my solution for the courses [MAS5311](https:/
 2. [Lecture2](MAD6406/Chapter1Lecture2.pdf)
 3. [Formal homework week1](MAD6406/hw_week1.pdf)
 4. [Lecture3](MAD6406/Lecture3.pdf)
+5. [Lecture4](MAD6406/Chapter1Lecture4.pdf)
