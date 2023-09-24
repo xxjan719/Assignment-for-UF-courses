@@ -62,3 +62,32 @@ plotSingularVectors(A);
 ```
 Then we can deduce this:
 ![Screenshot](https://github.com/xxjan719/Assignment-for-UF-courses/blob/main/MAD6406/imagelecture4_3.jpg)
+For Algorithm for using Gram-Schmit in python:
+```
+import numpy as np
+
+def gram_schmidt(A):
+    # Number of vectors (columns) in A
+    n = A.shape[1]
+    
+    # Initialize an empty matrix for storing the orthonormal vectors
+    Q = np.zeros_like(A, dtype=float)
+    
+    for j in range(n):
+        # Start with the j-th column of A
+        v = A[:, j]
+        
+        for i in range(j):
+            # Subtract the projections onto the previous vectors
+            v -= np.dot(Q[:, i], A[:, j]) * Q[:, i]
+        
+        # Normalize the resulting vector
+        Q[:, j] = v / np.linalg.norm(v)
+    
+    return Q
+
+# Example usage:
+A = np.array([[1, 1], [1, 0], [1, 2]], dtype=float)
+Q = gram_schmidt(A)
+print(Q)
+```
